@@ -197,7 +197,7 @@ def play(dim_size=10, num_bombs=10):
     if safe:
         print("CONTRATULATIONS!!!! YOU ARE VICTORIOUS")
     else:
-        print("SORRY GAME OVER : (")
+        print("SORRY GAME OVER :(")
         # let's reveal the whole board!
         board.dug = [(r,c) for r in range(board.dim_size) for c in range(board.dim_size)]
         print(board)
