@@ -1,4 +1,4 @@
-#from ctypes import LittleEndianStructure
+2#from ctypes import LittleEndianStructure
 import time
 from player import  GeniusComputerPlayer, HumanPlayer, RandomComputerPlayer
 
