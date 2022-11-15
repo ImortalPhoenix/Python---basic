@@ -1,5 +1,5 @@
-"""to count how many time we execute a loop we introduce a counter 
-varialbe that starts at 0 and one to it each tie through the loop """
+"""to add up a value we encounter in a loop we introduce a sum variable that starts at '0' and 
+we add the value to the 'sum' each time through the loop"""
 
 zoro = 0
 print('Before', zoro)
